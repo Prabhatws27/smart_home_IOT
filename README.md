@@ -3,17 +3,17 @@
 
 This project is a Python-based simulation of a Smart Home IoT system that automates:
 
-    🌡️ Indoor climate control
+    🌡 Indoor climate control
 
-    🔍 Motion-based camera privacy
+     Motion-based camera privacy
 
-    🔥 Smoke detection
+     Smoke detection
 
-    📊 Live sensor visualization
+     Live sensor visualization
 
-    🛠️ Manual device overrides
+     Manual device overrides
 
-🏠 Features
+ Features
 
     Temperature & Humidity Monitoring
     Simulates sensors and maintains indoor comfort using a heater and window panels (replacing cooling fans).
