@@ -3,7 +3,7 @@
 
 This project is a Python-based simulation of a Smart Home IoT system that automates:
 
-    Indoor climate control
+     Indoor climate control
 
      Motion-based camera privacy
 
